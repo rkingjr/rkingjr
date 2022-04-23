@@ -1,6 +1,6 @@
-## Hi, I'm Randy!
-
-### FAQ: Frequently Asked Questions
+## Howdy! You have landed on Randy's GitHub!
+![GitHub Profile Banner](./Images/github_banner.png)
+### FAQ: Frequently Asked Questions:
 
 As I have spent the past 7 years in China, these are the questions I have received the most. These are accurate as of March 9th, 2022.
 
@@ -26,3 +26,5 @@ As I have spent the past 7 years in China, these are the questions I have receiv
     我有枪，但我不随身携带 I own a gun but I don't carry it.
 
 Are these web development related? Not at all.
+
+## Known Technologies:
